@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="73227" started-at="2020-07-02T10:44:32Z" finished-at="2020-07-02T10:45:45Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="73227" started-at="2020-07-02T10:44:32Z" finished-at="2020-07-02T10:45:45Z">
+      <class name="swe599.AppiumTestFramework.ApiDemoTest">
+        <test-method status="PASS" signature="apiDemoTest(java.lang.String)[pri:0, instance:swe599.AppiumTestFramework.ApiDemoTest@174d20a]" name="apiDemoTest" duration-ms="35402" started-at="2020-07-02T10:44:32Z" data-provider="InputData" finished-at="2020-07-02T10:45:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hello]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiDemoTest -->
+        <test-method status="PASS" signature="apiDemoTest(java.lang.String)[pri:0, instance:swe599.AppiumTestFramework.ApiDemoTest@174d20a]" name="apiDemoTest" duration-ms="37789" started-at="2020-07-02T10:45:08Z" data-provider="InputData" finished-at="2020-07-02T10:45:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[@&$%]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiDemoTest -->
+      </class> <!-- swe599.AppiumTestFramework.ApiDemoTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

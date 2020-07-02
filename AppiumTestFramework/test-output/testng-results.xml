@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45398" started-at="2020-07-02T10:42:55Z" finished-at="2020-07-02T10:43:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45398" started-at="2020-07-02T10:42:55Z" finished-at="2020-07-02T10:43:40Z">
+      <class name="swe599.AppiumTestFramework.Ecommerce_tc_4">
+        <test-method status="PASS" signature="killAllNodes()[pri:0, instance:swe599.AppiumTestFramework.Ecommerce_tc_4@6dbb137d]" name="killAllNodes" is-config="true" duration-ms="3022" started-at="2020-07-02T10:42:55Z" finished-at="2020-07-02T10:42:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killAllNodes -->
+        <test-method status="PASS" signature="totalValidation()[pri:0, instance:swe599.AppiumTestFramework.Ecommerce_tc_4@6dbb137d]" name="totalValidation" duration-ms="42349" started-at="2020-07-02T10:42:58Z" finished-at="2020-07-02T10:43:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalValidation -->
+      </class> <!-- swe599.AppiumTestFramework.Ecommerce_tc_4 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
